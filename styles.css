@@ -9,7 +9,7 @@ text-align: center;
   display: grid;
   grid-template-columns: auto auto auto auto;
   border-style: double;
-  font-size: 2em;
+  font-size: 4em;
 }
 
 .display {
