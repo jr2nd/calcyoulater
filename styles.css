@@ -19,7 +19,9 @@ border-style: solid;
   border-color: black;
   background-color: white;
 }
-
+label {
+  text-align: right;
+}
 .button {
 font-size: 60px;
 text-align: center;
