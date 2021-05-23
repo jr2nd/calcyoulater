@@ -9,6 +9,7 @@ text-align: center;
   display: grid;
   grid-template-columns: auto auto auto auto;
   border-style: double;
+  font-size: 2em;
 }
 
 .display {
@@ -45,6 +46,7 @@ font-size: 1.2em;
 #choices {
   background-color: red;
   grid-column: 1/5;
+  font-size: .5em;
 }
 #CA {
   background-color: orange;
