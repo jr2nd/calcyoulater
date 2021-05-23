@@ -17,7 +17,7 @@ text-align: center;
   border-style: solid;
   border-color: black;
   background-color: white;
-  font-size: .8em;
+  font-size: .3em;
 }
 label {
   text-align: right;
@@ -42,12 +42,11 @@ margin: 1px;
 grid-column: 1/ 5;
 height: 40px;
 border-style: solid;
-font-size: 1.2em;
 }
 #choices {
   background-color: red;
   grid-column: 1/5;
-  font-size: .5em;
+  font-size: .2em;
 }
 #CA {
   background-color: orange;
