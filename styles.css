@@ -8,7 +8,7 @@ text-align: center;
 #buttons-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  border-style: double;
+  border-style: solid;
 }
 
 .display {
@@ -21,6 +21,9 @@ text-align: center;
 label {
   text-align: right;
   grid-row: 3;
+}
+label:hover {
+  font-size: 4em;
 }
 .button {
 text-align: center;
