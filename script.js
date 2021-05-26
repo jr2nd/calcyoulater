@@ -43,7 +43,7 @@ result.innerHTML = result.innerHTML * entry.innerHTML;
       result.innerHTML = '0';
       entry.innerHTML = '0';
       break;
-    case '&#8626;': //Enter
+    case '=':
       entry = 0;
       result = 0.0;
       break;
